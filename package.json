@@ -11,11 +11,9 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@types/react-simple-maps": "^3.0.6",
     "framer-motion": "^12.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-simple-maps": "^3.0.0",
     "recharts": "^2.15.1"
   },
   "devDependencies": {
